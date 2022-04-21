@@ -1,1 +1,3 @@
 # Oil-Prediction-3D-LSTM
+
+In this study, we will attempt to extract characteristics from a variety of dominating elements that are strongly associated with WTI Crude Oil Price: oil supply (Gallo 2010) and weather data (Ederington 2019, Siebert 2011). Meanwhile, historical prices, such as opening and closing prices, volume, and technical indicators, will also be analyzed. The performance of several models will be evaluated using multidimensional data. Following that, we want to examine and compare the prediction's accuracy and outcome to real data. By evaluating which machine learning model is the most effective at forecasting crude oil prices, we want to study which features have more influence on the prediction of oil prices.
